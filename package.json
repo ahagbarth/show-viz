@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/ahagbarth/show-viz/issues"
   },
-  "homepage": "https://github.com/ahagbarth/show-viz#readme"
+  "homepage": "https://github.com/ahagbarth/show-viz#readme",
+  "dependencies": {
+    "bulma": "^0.8.1",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.7"
+  }
 }
